@@ -42,6 +42,6 @@ To document hands-on SOC investigations, threat hunting, and detection engineeri
 </div>
 
 ## Projects
-- Active Directory Project
+-  <a href="01-Active-Directory-Project">Active Directory Project</a>
 - SOC Automation Project
 - SOAR EDR
