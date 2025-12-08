@@ -9,12 +9,10 @@ To document hands-on SOC investigations, threat hunting, and detection engineeri
 
 
 ## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|        | <a href="https://google.com"></a>|
-|  | <a href="https://google.com"></a>|
-
+* **Security Operations:** SIEM Monitoring, Alert Triage, Log Correlation & Analysis, Incident Detection & Response, MITRE ATT&CK, Incident Documentation, IOC/IOA Identification, Threat Investigation
+* **Threat & Event Analysis:** Windows Event Logs, Sysmon, Network Traffic (TCP/IP, DNS, Ports & Protocols), Authentication Events, Process & Service Analysis
+* **Testing & Automation:** Root Cause Analysis, Pattern Detection, Test Case Design, Defect Discovery & Reporting, PowerShell, Bash
+* **System & Operational Skills:** Windows Administration, Linux CLI, Active Directory, Documentation, Reporting & Cross-Team Collaboration, High Attention to Detail & Analytical Troubleshooting
 
 ## Tools
 
@@ -43,5 +41,5 @@ To document hands-on SOC investigations, threat hunting, and detection engineeri
 
 ## Projects
 -  <a href="https://github.com/srinivasswarajgunturu/Blue-Team/tree/main/01-Active-Directory-Project">Active Directory Project</a>
-- SOC Automation Project
-- SOAR EDR
+- SOC Automation Project - In Progress
+- SOAR EDR - In Progress
