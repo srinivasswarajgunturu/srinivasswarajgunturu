@@ -42,4 +42,4 @@ To document hands-on SOC investigations, threat hunting, and detection engineeri
 ## Projects
 -  <a href="https://github.com/srinivasswarajgunturu/Blue-Team/tree/main/01-Active-Directory-Project">Active Directory Project</a>
 - <a href="https://github.com/srinivasswarajgunturu/Blue-Team/tree/main/02-SOC-Automation-Project">SOC Automation Project</a>
-- SOAR EDR - In Progress
+- <a href="https://github.com/srinivasswarajgunturu/Blue-Team/tree/main/03-SOAR-EDR-Project">SOAR EDR Project</a>
